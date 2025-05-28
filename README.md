@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there 👋Tamera Okafor
 
 <!--
+
+| Data Analyst| Deriving actionable insights from data for businesses
+ gmail logo 
 **ladytamera/ladytamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
